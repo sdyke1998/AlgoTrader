@@ -32,7 +32,7 @@ namespace Bot{
             }
 
             /*  
-            This comment is the algorithm for calculating the moving average.
+            This comment describes the algorithm for calculating the moving average.
 
             1. Calcuate the moving average for each price points from the specified window
             2. At the latest price point, calcukate the latest moving average price

@@ -6696,19 +6696,19 @@
     ]
   },
   "packageFolders": {
-    "/home/scott/.nuget/packages/": {}
+    "C:\\Users\\Scott\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/scott/tradebot/tradebot.csproj",
+      "projectUniqueName": "C:\\Users\\Scott\\Desktop\\tradebot\\AlgoTrader\\tradebot.csproj",
       "projectName": "tradebot",
-      "projectPath": "/home/scott/tradebot/tradebot.csproj",
-      "packagesPath": "/home/scott/.nuget/packages/",
-      "outputPath": "/home/scott/tradebot/obj/",
+      "projectPath": "C:\\Users\\Scott\\Desktop\\tradebot\\AlgoTrader\\tradebot.csproj",
+      "packagesPath": "C:\\Users\\Scott\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Scott\\Desktop\\tradebot\\AlgoTrader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/scott/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Scott\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -6774,7 +6774,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
